@@ -1,0 +1,17 @@
+.heading{
+    width:100%;
+    font-size: 23px;
+    margin: 0px;
+}
+body{
+    background-size: 500px;
+}
+#song_name{
+    font-size: 15px;
+    color: rgba(255, 0, 0, 0.699);
+}
+canvas{
+    border: 5px solid blue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
